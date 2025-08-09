@@ -46,8 +46,8 @@ Router(config-if)# no shutdown<br>
 ________________________________________
 ## Output (Screenshots / Ping Results):
 ```
-## NAME:T.DANUSH REDDY
-## REG NO:212223040029
+NAME:T.DANUSH REDDY
+REG NO:212223040029
 ```
 <img width="1920" height="1080" alt="exp-1(skech)" src="https://github.com/user-attachments/assets/334458e6-7a58-4055-b7dc-7808d6c8d96b" />
 <img width="1920" height="1080" alt="cmd-1exp" src="https://github.com/user-attachments/assets/9c6baef5-616e-4bc7-b77b-254dc41fefeb" />
