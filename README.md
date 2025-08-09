@@ -1,5 +1,5 @@
 ## Ex. No 1. 	Basic Connectivity between Two PCs Using a Switch
-# Date : 		
+# Date : 09/08/2025		
 
 # Objective
 
@@ -29,7 +29,7 @@ Example:
 3.	Assign IP addresses to the PCs.
 4.	Use the ping command to verify connectivity.
 ________________________________________
-# Commands Used (if any)
+## Commands Used (if any)
 
 For PC IP assignment:<br>
 nginx<br>
@@ -44,9 +44,15 @@ Router(config)# interface FastEthernet0/0<br>
 Router(config-if)# ip address 192.168.1.1 255.255.255.0<br>
 Router(config-if)# no shutdown<br>
 ________________________________________
-# Output (Screenshots / Ping Results)
+## Output (Screenshots / Ping Results):
+```
+## NAME:T.DANUSH REDDY
+## REG NO:212223040029
+```
+<img width="1920" height="1080" alt="exp-1(skech)" src="https://github.com/user-attachments/assets/334458e6-7a58-4055-b7dc-7808d6c8d96b" />
+<img width="1920" height="1080" alt="cmd-1exp" src="https://github.com/user-attachments/assets/9c6baef5-616e-4bc7-b77b-254dc41fefeb" />
+<img width="1920" height="1080" alt="final -simulation exp-1" src="https://github.com/user-attachments/assets/680753e1-66b5-400c-af04-3a22ba26fc5c" />
 
-Insert screenshots showing ping success, configuration, or simulation results.
 ________________________________________
 # Result
 “Successfully configured and verified basic LAN communication between two PCs using a switch in Cisco Packet Tracer.”
