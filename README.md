@@ -45,10 +45,9 @@ Router(config-if)# ip address 192.168.1.1 255.255.255.0<br>
 Router(config-if)# no shutdown<br>
 ________________________________________
 ## Output (Screenshots / Ping Results):
-```
 NAME:T.DANUSH REDDY
 REG NO:212223040029
-```
+
 <img width="1920" height="1080" alt="exp-1(skech)" src="https://github.com/user-attachments/assets/334458e6-7a58-4055-b7dc-7808d6c8d96b" />
 <img width="1920" height="1080" alt="cmd-1exp" src="https://github.com/user-attachments/assets/9c6baef5-616e-4bc7-b77b-254dc41fefeb" />
 <img width="1920" height="1080" alt="final -simulation exp-1" src="https://github.com/user-attachments/assets/680753e1-66b5-400c-af04-3a22ba26fc5c" />
